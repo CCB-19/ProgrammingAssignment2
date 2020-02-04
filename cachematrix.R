@@ -1,8 +1,8 @@
-## Creating a cached Inverse of a Matrix
-## Writing two functions
+## Caching an Inverse of a Matrix
+## Writting two functions:
 
 ## First function will create a vector which allows to set the data and it's value
-## as well as setting the mean value and retrieving that value
+## as well as setting the Inverse of a Matrix and retrieving that value
 
 makeCacheMatrix <- function(x = matrix()) {
       s <- NULL
